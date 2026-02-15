@@ -1,0 +1,2 @@
+// I have following application MongoDB, avms-frontend (Angular), avms-backend(NestJs) and avms-fastapi-docker(Python Fast API)
+Write documention in setup.md file to install and run locally in debug mode
